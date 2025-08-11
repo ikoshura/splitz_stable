@@ -28,14 +28,19 @@ A lightweight desktop app to quickly split large PDFs into smaller parts. Built 
 
 ---
 
-## Installation
+## Prerequisites (if building from source)
 
-Make sure Python 3 is installed.
-Run:
+Make sure Python 3 is installed, then install dependencies:
 
 ```bash
 pip install PyQt5 PyQt-Fluent-Widgets==1.8.6 pymupdf
 ```
+
+---
+
+## Running the prebuilt release
+
+Download the latest release from the [Releases page](https://github.com/ikoshura/splitz_stable/releases/tag/v15.4) and run the executable directly. No additional setup needed.
 
 ---
 
@@ -51,11 +56,6 @@ pip install PyQt5 PyQt-Fluent-Widgets==1.8.6 pymupdf
 
 ---
 
-## Download
-
-Get the latest build on the [Releases page](https://github.com/ikoshura/splitz_stable/releases/tag/v15.4).
-
----
 
 ## Contributing
 
