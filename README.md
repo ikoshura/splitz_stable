@@ -1,4 +1,4 @@
-# Splitz Super Splitter
+# Splitz Super Splitter PDF
 
 <img width="800" src="https://github.com/user-attachments/assets/bd20f85a-d0e5-4e02-b26b-e6a666ae7cab" alt="Splitz Dark Mode Screenshot" />
 
@@ -53,7 +53,7 @@ pip install PyQt5 PyQt-Fluent-Widgets==1.8.6 pymupdf
 
 ## Download
 
-Get the latest build on the [Releases page](https://github.com/username/repository/releases).
+Get the latest build on the [Releases page](https://github.com/ikoshura/splitz_stable/releases/tag/v15.4).
 
 ---
 
