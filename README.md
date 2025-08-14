@@ -75,6 +75,6 @@ Thanks for the clarification! Here's the corrected and clean version of your lic
 This project is licensed under the **MIT License**.
 See the [`LICENSE`](LICENSE) file for full details.
 <br>
-The app icon was created by [icon\_small - Flaticon](https://www.flaticon.com/free-icons/screenshot).
+The app icon was created by [icon\_small - Flaticon](https://www.flaticon.com/free-icon/screenshot_8528636?term=screenshot&page=1&position=1&origin=style&related_id=8528636).
 Licensed under the **Flaticon License**: *Free for personal and commercial purpose with attribution*.
 </br>
