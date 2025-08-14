@@ -39,7 +39,7 @@ pip install PyQt5 PyQt-Fluent-Widgets==1.8.6 pymupdf
 
 ---
 
-## 🚀 Run the Prebuilt App
+## 🚀 Download the Prebuilt App
 
 Download the latest version from the [Releases Page](https://github.com/ikoshura/splitz_stable/releases/tag/v15.4) and launch the executable.
 No installation required. Just run and split.
