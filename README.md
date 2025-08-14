@@ -68,9 +68,13 @@ Fork → Create a branch → Commit changes → Push → Open Pull Request
 
 ---
 
+Thanks for the clarification! Here's the corrected and clean version of your license section, reflecting that there's only **one icon** and using the exact Flaticon license wording:
+
+---
 ## 📄 License
-
-Licensed under the MIT License.
-See the `LICENSE` file for details.
-
-Let me know if you want this saved as a `.md` file or used in a specific platform like GitHub.
+This project is licensed under the **MIT License**.
+See the [`LICENSE`](LICENSE) file for full details.
+<br>
+The app icon was created by [icon\_small - Flaticon](https://www.flaticon.com/free-icons/screenshot).
+Licensed under the **Flaticon License**: *Free for personal and commercial purpose with attribution*.
+</br>
